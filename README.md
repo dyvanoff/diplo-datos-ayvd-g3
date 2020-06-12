@@ -1,8 +1,10 @@
-Trabajo practico Diplomatura de ciencia de datos 2020 Grupo 3
+# Análisis y Visualización de Datos
 
-Grupo: diplo-datos-ayvd-g3
+## Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2020
 
-Miembros
+**Grupo:** diplo-datos-ayvd-g3
+
+**Miembros**
    - Santiago López
    - Fernando Masía
    - Gustavo Echeverria
