@@ -2,26 +2,35 @@
 
 ## Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2020
 
-**Grupo:** diplo-datos-ayvd-g3
+### Grupo
 
-**Integrantes**
-   - Santiago López
-   - Fernando Masía
-   - Gustavo Echeverria
-   - Victoria Santucho
-   - Emmanuel Gianuzzi
-   - Dario Yvanoff
+*diplo-datos-ayvd-g3*
 
-**Packages in environment diplodatos-ayvd**
+### Integrantes
+- López Santiago
+- Masía Fernando
+- Echeverria Gustavo
+- Santucho Victoria
+- Gianuzzi Emmanuel
+- Yvanoff Dario
 
-**Name                    Version                   Build  Channel**
+### Ejecución del notebook
 
-numpy                     1.18.4                   pypi_0    pypi
+Se puede ejecutar en [**Colab**](https://colab.research.google.com/github/dyvanoff/diplo-datos-ayvd-g3/blob/master/practico_analisisDatos.ipynb),
 
-pandas                    1.0.3            py36h47e9c7a_0
+o se puede descargar el repositorio y ejecutar en un servidor personal.
 
-python                    3.6.10               h9f7ef89_2
+**Requerimientos** 
 
-scipy                     1.4.1            py36h9439919_0
+python     >= 2.x
 
-seaborn                   0.10.1                     py_0
+numpy      >= 1.18.4
+
+matplotlib >= 3.2.1
+
+pandas     >= 1.0.3
+
+scipy      >= 1.4.1
+
+seaborn    >= 0.10.1
+
