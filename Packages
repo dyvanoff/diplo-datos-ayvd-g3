@@ -1,4 +1,4 @@
-# packages in environment diplodatos-ayvd
+# Full list of packages in environment diplodatos-ayvd
 # Name                    Version                   Build  Channel
 attrs                     19.3.0                     py_0    conda-forge
 backcall                  0.1.0                      py_0    conda-forge
