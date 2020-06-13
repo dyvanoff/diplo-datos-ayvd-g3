@@ -4,7 +4,7 @@
 
 **Grupo:** diplo-datos-ayvd-g3
 
-**Miembros**
+**Integrantes**
    - Santiago López
    - Fernando Masía
    - Gustavo Echeverria
@@ -12,10 +12,10 @@
    - Emmanuel Gianuzzi
    - Dario Yvanoff
 
-** packages in environment diplodatos-ayvd **
-** Name                    Version                   Build  Channel **
-   numpy                     1.18.4                   pypi_0    pypi
-   pandas                    1.0.3            py36h47e9c7a_0
-   python                    3.6.10               h9f7ef89_2
-   scipy                     1.4.1            py36h9439919_0
-   seaborn                   0.10.1                     py_0
+**Packages in environment diplodatos-ayvd**
+**Name                    Version                   Build  Channel**
+numpy                     1.18.4                   pypi_0    pypi
+pandas                    1.0.3            py36h47e9c7a_0
+python                    3.6.10               h9f7ef89_2
+scipy                     1.4.1            py36h9439919_0
+seaborn                   0.10.1                     py_0
